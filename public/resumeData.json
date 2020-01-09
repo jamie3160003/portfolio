@@ -1,56 +1,37 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Yujen Su",
+    "occupation":"Full Stack Developer",
+    "description":"If you are looking for someone who's passionate about coding. You come into the right place!",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"A full stack developer with 3 years of experience. The experience includes building and launching a web application from scratch within 6 months. Building highly reusable and scalable code is one of my strength. I’m looking for positions which mainly focus on development of server-side logic and data manipulation.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "jamie3160003@gmail.com",
+    "phone": "949-381-8960",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"6502 Fairfield St",
+      "city":"Los Angeles",
+      "state":"CA",
+      "zip": "90022"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1_xO7wJNgikFkrHl73eReSyBwHp5HxzRN/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/jamie3160003",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/jamie3160003/",
         "className":"fa fa-linkedin"
       },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
+
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/jamie3160003",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -58,60 +39,73 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of California, Irvine",
+        "degree":"Master of Science in Electrical and Computer Engineering",
+        "graduated":"April 2017"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"National Chung Hsing University",
+        "degree":"Bachelor of Science in Physics",
+        "graduated":"July 2011"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Clicktool",
+        "title":"Full Stack Developer",
+        "years":"Auguest 2017 - January 2020",
+        "descriptions": [
+            "Initiate and launch Clicktool’s marketing analytics platform from scratch",
+            "Design and organize the app architecture and database schema",
+            "Create back-end RESTful APIs with Node/Express/Stripe",
+            "Handle database operations with SQL/MariaDB/Sequelize",
+            "Develop front-end UI with React/Redux, HTML, CSS, Javascript",
+            "Set up cloud integrations with AWS(EC2/ELB/RDS/R53)",
+            "Build new features to online stores with Shopify/jQuery"
+        ]
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"ASE Group",
+        "title":"Process Engineer",
+        "years":"November 2012 - November 2013",
+        "descriptions": [
+            "Boosted the productivity by development of new manufacturing processes",
+            "Optimization of production lines and elimination of errors"
+        ]
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"Javascript",
+        "level":"85%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Node/Express",
+        "level":"85%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"React/Redux",
+        "level":"83%"
+      },
+      {
+          "name":"SQL/MySQL",
+          "level":"75%"
+      },
+      {
+          "name":"jQuery",
+          "level":"75%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"70%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"75%"
       },
       {
-        "name":"VueJs",
+        "name":"Shopify",
         "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
       }
     ]
   },
@@ -152,12 +146,19 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Yujen is a really quick learner, he can pick up new things quickly and and adopt it to what we need for the projects with minimal guidance. throughout the years working with him, we've been in many engineering challenges, but with his good work-ethic, hard working, detail oriented we all know he will get it solved. he's a kind of developer that all the dev teams are looking for.",
+        "user":"Voranon Chumnansiri... Lead Developer",
+        "link":"https://www.linkedin.com/in/voranon-chumnansiri-77030798/"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Yujen and I worked together frequently as backend and frontend developers (respectively). He architected much of the Clicktool software and emphasized clean and well-structured code. I came to Yujen often for code reviews and he was always happy to go over my work, process the logic, and make any suggestions. A couple of helpful things that Yujen introduced to me during our time working together is using conditional rendering in React components and using object-oriented design in backend development. I felt like I learned something new every time I come across the code he's written. I’m thankful that Yujen was a senior developer on our team as he has contributed to my coding knowledge greatly.",
+        "user":"William Ha... Front End Developer",
+        "link":"https://www.linkedin.com/in/wvha17/"
+      },
+      {
+        "text": "It was great working with Yujen - he is great at building out clean, scalable software solutions!",
+        "user": "Isaac Grey... Full Stack Developer",
+        "link":"https://www.linkedin.com/in/isaacgrey/"
       }
     ]
   }
