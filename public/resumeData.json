@@ -2,10 +2,10 @@
   "main": {
     "name":"Yujen Su",
     "occupation":"Full Stack Developer",
-    "description":"If you are looking for someone who's passionate about coding. You come into the right place!",
+    "description":"",
     "image":"profilepic.jpg",
-    "bio":"A full stack developer with 3 years of experience. The experience includes building and launching a web application from scratch within 6 months. Building highly reusable and scalable code is one of my strength. I’m looking for positions which mainly focus on development of server-side logic and data manipulation.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"A full stack developer with 3 years of experience. The experience includes building and launching an online marketing analytic platform from scratch within 6 months. Building highly reusable and scalable code is one of my strength. I’m looking for any opportunities to work with latest technologies and inspirational ideas.",
+    "contactmessage":"",
     "email": "jamie3160003@gmail.com",
     "phone": "949-381-8960",
     "address":{
@@ -15,7 +15,7 @@
       "zip": "90022"
     },
     "website": "",
-    "resumedownload":"https://drive.google.com/file/d/1_xO7wJNgikFkrHl73eReSyBwHp5HxzRN/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1W7m2d94b-eE_PCFXAj0XSw7fEjmKTvI-/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -36,7 +36,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of California, Irvine",
@@ -71,6 +71,15 @@
         "descriptions": [
             "Boosted the productivity by development of new manufacturing processes",
             "Optimization of production lines and elimination of errors"
+        ]
+      },
+      {
+        "company":"Taiwan Navy",
+        "title":"Coast Guard",
+        "years":"September 2011 - September 2012",
+        "descriptions": [
+            "Guarded Taiwan’s southern coast",
+            "Partook in rescue missions during natural disasters"
         ]
       }
     ],
